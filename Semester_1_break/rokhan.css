@@ -1,0 +1,29 @@
+.helloo{
+    padding: 0%;
+    margin: 0%;
+
+}
+.hello{
+        table-layout: relative;
+        tab-size: 5%;
+        padding: 5%;
+        background-color: black;
+        text-align: relative;
+        border-style: dashed;
+        border-radius: 5%;
+        border-style: inset;
+}
+#kha{
+    background-color: blue;
+    color: aquamarine;
+    text-align: center;
+}
+#khaa{
+    background-color: blue;
+    color: aqua;
+    text-align: center;
+}
+.table{
+    background-color: red;
+    text-align: center;
+}
